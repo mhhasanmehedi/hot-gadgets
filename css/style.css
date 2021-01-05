@@ -166,7 +166,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .categories-area h2:after{
     position: absolute;
-    height: 4px;
+    height: 4px; 
     width: 60px;
     border-radius: 50px;
     background-color: #FFA431;
